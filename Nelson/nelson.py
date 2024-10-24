@@ -2,6 +2,8 @@ import speech_recognition as sr
 import json
 import unidecode
 
+#Brendo Gomes Prates
+#Gustavo Elías (Mordekai)
 
 # Leitura do arquivo json contendo as perguntas e as respostas
 global nome_assistente
